@@ -1,1 +1,0 @@
-import{j as t,m as a}from"./index-XCLY5ZR_.js";function n({children:i}){return t.jsx(a.div,{initial:{opacity:0,y:12},animate:{opacity:1,y:0},exit:{opacity:0,y:-12},transition:{duration:.6,ease:[.22,1,.36,1]},children:i})}export{n as A};

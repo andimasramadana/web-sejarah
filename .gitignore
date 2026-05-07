@@ -9,11 +9,11 @@ lerna-debug.log*
 
 # Dependencies
 node_modules
-
-# Production Build (Sudah dibuka)
-# dist
-# dist-ssr
-# .output
+dist
+dist-ssr
+.output
+.wrangler
+.tanstack
 
 # Frameworks/Tools (Sudah dibuka/dihapus tanda abaikan-nya)
 # .vinxi
